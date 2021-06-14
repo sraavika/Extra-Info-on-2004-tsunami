@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Life+Savers:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bubblegum+Sans&family=Life+Savers:wght@700&display=swap');
+
+body{
+    background-image: url(https://th.bing.com/th/id/OIP.-x4aVUBaGn9NBEE0kZnkZwHaFq?w=218&h=180&c=7&o=5&pid=1.7);
+    
+}
+h1{
+    text-align: center;
+    font-family: 'Life Savers', cursive;
+}
+p {
+    text-align: center;
+    font-size: large;
+    font-family:'Life Savers', cursive ;
+    
+}
+div {
+    font-family: 'Bubblegum Sans', cursive;
+    font-size:larger;
+}
